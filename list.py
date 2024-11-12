@@ -1,0 +1,22 @@
+sentences = [
+    "The quick brown fox jumps over the lazy dog.",
+    "A journey of a thousand miles begins with a single step.",
+    "To be or not to be, that is the question.",
+    "All that glitters is not gold.",
+    "Practice makes perfect, so keep typing to improve your speed.",
+    "She sells seashells by the seashore.",
+    "How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+    "Success is not the key to happiness; happiness is the key to success.",
+    "Believe you can, and you're halfway there.",
+    "The early bird catches the worm, but the second mouse gets the cheese.",
+    "Life is what happens when you're busy making other plans.",
+    "If you want something you've never had, you must be willing to do something you've never done.",
+    "Good things come to those who wait, but better things come to those who work for it.",
+    "Do not watch the clock; do what it does. Keep going.",
+    "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "If you cannot do great things, do small things in a great way.",
+    "An apple a day keeps the doctor away.",
+    "The pen is mightier than the sword.",
+    "Better late than never, but never late is better.",
+    "When life gives you lemons, make lemonade."
+]
